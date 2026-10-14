@@ -1,0 +1,15 @@
+**/build/
+**/.qtcreator/
+*.user
+*.pro.user
+*.pro.user.*
+
+*.exe
+*.o
+*.obj
+*.dll
+
+CMakeCache.txt
+CMakeFiles/
+
+.vscode/
